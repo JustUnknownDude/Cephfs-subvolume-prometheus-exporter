@@ -2,7 +2,7 @@
 
 ## How to use
 
-0. ``pip install prometheus_client``
+0. ~~~pip install prometheus_client~~~
 
 1. Copy exporter.py to /opt/subvolume-exporter/exporter.py
       
