@@ -2,11 +2,11 @@
 
 ## How to use
 
-0. ~~~pip install prometheus_client~~~
+0. ~~~ pip install prometheus_client ~~~
 
 1. Copy exporter.py to /opt/subvolume-exporter/exporter.py
       
-   ``sudo mkdir -p /opt/subvolume-exporter``
+   ~~~ sudo mkdir -p /opt/subvolume-exporter ~~~
    
    ``sudo curl -L https://raw.githubusercontent.com/JustUnknownDude/Cephfs-subvolume-prometheus-exporter/refs/heads/main/exporter.py -o /opt/subvolume-exporter/exporter.py && chmod +x /opt/subvolume-exporter/exporter.py``
 
